@@ -1,2 +1,4 @@
 # ReactLearning
-Curso Udemy 15 proyectos
+Proceso de aprendizaje de React
+
+Curso Udemy 15 proyectos, 
